@@ -1,4 +1,4 @@
-global.owner = ['917736308760'] // Put your number here
+global.owner = ['6282280134758'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -12,8 +12,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DXTROX'
-global.author = 'AMAL-DX'
+global.packname = 'Rnbot'
+global.author = 'AMAL-DX(recod by Radhin Al haady)'
 
 global.multiplier = 69 // The higher, The harder levelup
 
